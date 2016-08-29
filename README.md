@@ -9,3 +9,5 @@ USAGE:
 Mod10("492500000000007") will return 9
 
 
+https://en.wikipedia.org/wiki/Luhn_algorithm
+
